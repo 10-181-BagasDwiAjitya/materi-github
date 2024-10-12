@@ -1,3 +1,5 @@
 1. name tag
 2. buku angkatan
 3. slayer
+4. tumbler
+5. alat tulis
