@@ -1,2 +1,3 @@
 # materi-github
-kader 12 oktober
+materi kader 12 oktober
+tentang github dan lain lain
